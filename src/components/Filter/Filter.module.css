@@ -1,0 +1,24 @@
+.label {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  width: 50%;
+
+  margin-bottom: 20px;
+
+  font-size: 20px;
+  color: #4830f0;
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.input {
+  border-radius: 10px;
+  color: #4830f0;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+
+  padding: 2px 8px;
+}
