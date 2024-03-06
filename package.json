@@ -1,8 +1,8 @@
 {
-  "name": "react-hw-04-phonebook-hooks-tr",
+  "name": "react-hw-06-phonebook-rtk-tr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MrQuinlan.github.io/react-hw-04-phonebook-hooks-tr/",
+  "homepage": "https://MrQuinlan.github.io/react-hw-06-phonebook-rtk-tr/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
     "@testing-library/jest-dom": "^5.16.3",
